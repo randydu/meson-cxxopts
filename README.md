@@ -3,6 +3,7 @@
 URL: 
 
 - [Github: cxxopts](https://github.com/jarro2783/cxxopts);
+- [Github: meson-cxxopts (this project)](https://github.com/randydu/meson-cxxopts.git);
 - [The Meson Build system](https://mesonbuild.com/index.html);
 
 The subfolder "src" is a clone of git repository of a specified release version. 
